@@ -1186,7 +1186,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://t.me/MH_moviesgroup01"),
             InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://t.me/+2p4g9JuMTBY1N2M1")
        ],[
-            InlineKeyboardButton('ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ', ur="https://t.me/MLZ_BOTZ"),
+            InlineKeyboardButton('ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ', url="https://t.me/MLZ_BOTZ"),
             InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://t.me/MLZ_BOTZ_SUPPORT")
        ],[
             InlineKeyboardButton('ʜᴇʟᴩ & ꜰᴇᴇᴅʙᴀᴄᴋꜱ', url="t.me/Ak_assistantBot")
