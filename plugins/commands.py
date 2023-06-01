@@ -158,7 +158,7 @@ async def start(client, message):
                           
                           InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+                          InlineKeyboardButton("ᴀꜱᴋ ᴍᴏᴠɪᴇ ʜᴇʀᴇ", url="https://t.me/MH_moviesgroup01")
                          ]
                         ]
                     )
@@ -177,7 +177,7 @@ async def start(client, message):
                          
                           InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+                          InlineKeyboardButton("ᴀꜱᴋ ᴍᴏᴠɪᴇ ʜᴇʀᴇ", url="https://t.me/MH_moviesgroup01")
                          ]
                         ]
                     )
@@ -245,7 +245,7 @@ async def start(client, message):
                 protect_content=True if pre == 'filep' else False,
                 reply_markup=InlineKeyboardMarkup(
                     [[                          
-                      InlineKeyboardButton("⚜️ᴋᴏᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/KOM_LINKS')
+                      InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url='https://t.me/+2p4g9JuMTBY1N2M1')
                     ]]
                 )
             )
@@ -259,7 +259,7 @@ async def start(client, message):
                      InlineKeyboardButton("📥  ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  📥", url=f"{mh.link}")
                     ],
                     [
-                    InlineKeyboardButton("⚠️ ᴄᴀɴ'ᴛ ᴀᴄᴄᴇss ❓ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ⚠️", url="https://t.me/+Ek0ThHrI-KYwMWQ1")
+                    InlineKeyboardButton("⚠️ ᴄᴀɴ'ᴛ ᴀᴄᴄᴇss ❓ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ⚠️", url="https://t.me/+2F-DZCFAHpNhNTU1")
                     ]
                 ]
             ))
@@ -304,7 +304,7 @@ async def start(client, message):
               
               InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+              InlineKeyboardButton("ᴀꜱᴋ ᴍᴏᴠɪᴇ ʜᴇʀᴇ", url="https://t.me/MH_moviesgroup01")
              ]
             ]
         )
